@@ -1,5 +1,5 @@
+# Please seperate the front end part of the website(Can be seen through commit messages) and the backend part in 2 different folders!
 # Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
